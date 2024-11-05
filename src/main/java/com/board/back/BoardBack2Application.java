@@ -8,6 +8,6 @@ public class BoardBack2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BoardBack2Application.class, args);
-	}
+	} 
 
 }
